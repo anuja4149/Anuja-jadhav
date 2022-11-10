@@ -1,0 +1,20 @@
+.formInput{
+    display: flex;
+    flex-direction: column;
+    /* width: 100px; */
+}
+
+
+
+input{
+    padding: 5px;
+    margin: 2px 0px;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
+
+label{
+    font-size: 12px;
+    color: gray
+}
+
